@@ -1,0 +1,37 @@
+{
+  "name": "@antoniocesardev/whatsapp-scraper",
+  "version": "1.0.0",
+  "description": "Node.js client for WhatsApp Scraper RapidAPI using native fetch",
+  "keywords": [
+    "WhatsApp",
+    "Scraper",
+    "Public",
+    "Data",
+    "WhatsApp",
+    "Scraper",
+    "Scraper",
+    "WhatsApp"
+  ],
+  "homepage": "https://github.com/antoniocesar16/whatsapp-scraper#readme",
+  "bugs": {
+    "url": "https://github.com/antoniocesar16/whatsapp-scraper/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniocesar16/whatsapp-scraper.git"
+  },
+  "license": "ISC",
+  "author": "Antônio César",
+  "type": "commonjs",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node -e \"console.log('No tests configured')\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
