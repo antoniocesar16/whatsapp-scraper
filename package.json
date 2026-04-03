@@ -1,5 +1,5 @@
 {
-  "name": "@antoniocesardev/whatsapp-scraper",
+  "name": "@antoniocesar/whatsapp-scraper",
   "version": "1.0.0",
   "description": "Node.js client for WhatsApp Scraper RapidAPI using native fetch",
   "keywords": [
@@ -28,10 +28,16 @@
     "index.js",
     "README.md"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "node -e \"console.log('No tests configured')\""
   },
   "engines": {
     "node": ">=18"
+  },
+  "dependencies": {
+    "@antoniocesar/whatsapp-scraper": "^1.0.0"
   }
 }

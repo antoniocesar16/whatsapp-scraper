@@ -1,11 +1,11 @@
 # WhatsApp Scraper Client
 
-Simple Node.js client for the WhatsApp Scraper RapidAPI.
+WhatsApp Scraper public Data
 
 ## Install
 
 ```bash
-npm install @antoniocesardev/whatsapp-scraper
+npm install @antoniocesar/whatsapp-scraper
 ```
 
 ## Get your API key
